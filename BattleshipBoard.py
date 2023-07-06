@@ -29,7 +29,7 @@ class BattleshipBoard:
 	
 	
 	def placeShips(self):
-		return self.preset()
+		#return self.preset()
 		
 		self.setupShip( "aircraft carrier", 5)
 		self.setupShip( "battleship", 4)
